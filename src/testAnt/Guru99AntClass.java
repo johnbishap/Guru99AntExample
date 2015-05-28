@@ -7,7 +7,7 @@ public class Guru99AntClass {
 
 	@Test
 	public  void  Guru99AntTestNGMethod(){
-		System.out.println("Hi Devendra");
+		System.out.println("Hi Devendra Patel");
 		System.out.println("TODAY's DATE IS -> "+ currentDate() );
 	}
 	
